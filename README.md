@@ -7,7 +7,7 @@ The documentation for the Argon Design System Angular is hosted at our [website]
 Within the download you'll find the following directories and files:
 
 ```
-argon-design-system-angular
+landingpage
 ├── CHANGELOG.md
 ├── ISSUES_TEMPLATE.md
 ├── LICENSE.md
